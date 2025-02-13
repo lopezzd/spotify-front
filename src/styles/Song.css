@@ -1,0 +1,69 @@
+.song-card{
+    padding: .75rem;
+    width: 11rem;
+    height: 14rem;
+    display: flex;
+    justify-content:center;
+    aling-items: center;
+    flex-flow: column nowrap;
+    transition: all .1s ease-in-out;
+    border-radius: .25rem;
+    gap: .5rem;
+    position: relative;
+}
+
+.song-card:hover{
+    background-color: #1f1f1f;
+}
+
+
+.song-card__image{
+    border-radius: .3rem;
+    width: 9rem;
+    height: 9rem;
+    margin: 0 auto;
+    filter: drop-shadow(1px 1px 0.25rem #000);
+}
+
+
+.song-card__heading__name{
+    font-size: 1rem;
+}
+
+.song-card__heading__name:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.song-card__heading__type{
+    font-size: .75rem;
+    color: #7c7c7c;
+    font-weight: normal;
+}
+
+.song-card__play{
+    z-index: 1;
+    opacity: 0;
+    visibility: hidden;
+    width: 2.5rem;
+    height: 2.5rem;
+    position: absolute;
+    color: #1ed760;
+    bottom: 5rem;
+    right: 2rem;
+    transition: opacity .2s ease-in-out, visibility .2s ease-in-out, transform .05s ease-in-out, bottom .2s ease-in-out;
+    transform: scale(1);
+}
+
+.song-card__play:hover{
+    transform: scale(1.1);
+    color: #3ff982;
+}
+
+.song-card:hover .song-card__play {
+    opacity: 1;
+    visibility: visible;
+    bottom: 3.5rem;
+    right: 2rem;
+
+}

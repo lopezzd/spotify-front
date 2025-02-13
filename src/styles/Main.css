@@ -1,0 +1,29 @@
+.main{
+    padding: 2rem;
+    margin: 0 1rem 1rem;
+    background-image: linear-gradient(to bottom, #121212, #000);
+    border-radius: .25rem;
+    flex: 1;
+  }
+  
+  .musician-list{
+    width: 100%;
+
+  }
+  
+  .musician-list__header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 1em;
+  }
+  
+  .musician-list_link:hover{
+    text-decoration: underline;
+  }
+  
+  button{
+    width: 5rem;
+    height: 1rem;
+  }
