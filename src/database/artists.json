@@ -1,10 +1,62 @@
-[
+  [
     {
       "id": 1,
-      "name": "Henrique & Juliano",
+      "name": "Machine Head",
       "type": "Artista",
-      "image": "https://i.scdn.co/image/ab676161000051744dcd8a3bff84cd7703892cf4",
-      "banner": "https://i.scdn.co/image/ab67618600001016b37fbcbd078cb239588df5d9"
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRX-olT675o_3oCQHQkUnKkGZCtv7p6SOfeXdzNdf9uM6p8XAiHu65IR1sCfJy0SxSbbvoWJ3zfYK9yWm9uuZ0seQ"
+    },
+    {
+      "id": 2,
+      "name": "Metallica",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44"
+    },
+    {
+      "id": 3,
+      "name": "Slipknot",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd0cdb283a7384a0edb665182"
+    },
+    {
+      "id": 4,
+      "name": "Iron Maiden",
+      "type": "Artista",
+      "image": "https://www.ironmaiden.com/files/2024/08/WS_2023_Lineup.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pantera",
+      "type": "Artista",
+      "image": "https://i0.wp.com/www.wikimetal.com.br/wp-content/uploads/2016/07/Pantera-melhor-banda-de-thrash.jpg?resize=1000%2C658&ssl=1"
+    },
+    {
+      "id": 6,
+      "name": "Megadeth",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/ab676161000051743f19bad1d41dceb90d8b4cf5"
+    },
+    {
+      "id": 7,
+      "name": "Slayer",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/8c81130db7b5f933412c4906c30327817f1e1b43"
+    },
+    {
+      "id": 8,
+      "name": "Sepultura",
+      "type": "Artista",
+      "image": "https://uploads.tenhomaisdiscosqueamigos.com/2025/02/YISIJvyE-Sepultura-em-2025.webp"
+    },
+    {
+      "id": 9,
+      "name": "Lamb of God",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb943a08242864dc3364a9478"
+    },
+    {
+      "id": 10,
+      "name": "Gojira",
+      "type": "Artista",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb96c4949ee078fbef5d5adb68"
     }
   ]
-  

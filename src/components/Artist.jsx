@@ -1,25 +1,22 @@
 import React from "react";
-import songsArray from "../database/songs";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
 import "../styles/Artist.css";
 
-const Artist = () => {
-  const handleClick = () => {
-    console.table(songsArray);
-  };
+
+const Artist = ({name, image, type}) => {
 
   return (
     <div className="musician-card">
       <FontAwesomeIcon className="musician-card__play" icon={faCirclePlay} />
       <img
         className="musician-card__image"
-        src={`${songsArray[0].image}`}
-        alt={`Artista: ${songsArray[0].name}`}
+        src={`${image}`}
+        alt={`Artista: ${name}`}
       />
       <div className="musician-card__heading">
-        <h2 className="musician-card__heading__name">Machine Head</h2>
-        <h3 className="musician-card__heading__type">Artista</h3>
+        <h2 className="musician-card__heading__name">{name}</h2>
+        <h3 className="musician-card__heading__type">{type}</h3>
       </div>
     </div>
   );
