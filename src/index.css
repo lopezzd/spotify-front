@@ -11,6 +11,8 @@ body{
   background-color: #000;
   color: #FFF;
   text-decoration: none;
+  -ms-overflow-style: none;
+
 }
 
 a{
@@ -24,3 +26,10 @@ a{
   flex-flow: column nowrap;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+}
