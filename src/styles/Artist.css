@@ -1,7 +1,7 @@
 .musician-card {
   padding: 0.75rem;
-  width: 11rem;
-  height: 14rem;
+  min-width: 11rem;
+  min-height: 14rem;
   display: flex;
   justify-content: center;
   aling-items: center;
