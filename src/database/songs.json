@@ -1,9 +1,72 @@
 [
   {
     "id": 1,
-    "song":"Davidian",
-    "image": "https://i.scdn.co/image/ab676161000051744dcd8a3bff84cd7703892cf4",
-    "name": "Henrique & Juliano",
-    "banner": "https://i.scdn.co/image/ab67618600001016b37fbcbd078cb239588df5d9"
+    "name": "Davidian",
+    "artist": "Machine Head",
+    "album": "Burn My Eyes",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Machine_Head_-_Burn_My_Eyes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Seek and Destroy",
+    "artist": "Metallica",
+    "album": "Kill'Em All",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9d81ca2b0884641e321be4f"
+  },
+  {
+    "id": 3,
+    "name": "Snuff",
+    "artist": "Slipknot",
+    "album": "All Hope Is Gone",
+    "image": "https://m.media-amazon.com/images/I/81GgzQ3cHgL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Trooper",
+    "artist": "Iron Maiden",
+    "album": "Piece Of Mind",
+    "image": "https://upload.wikimedia.org/wikipedia/pt/8/85/Iron_Maiden_-_Piece_Of_Mind.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Walk",
+    "artist": "Pantera",
+    "album": "Vulgar Display of Power",
+    "image": "https://upload.wikimedia.org/wikipedia/pt/4/48/VulgarDisplayOfPower.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Holy Wars",
+    "artist": "Megadeth",
+    "album": "Rust In Peace",
+    "image": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Megadeth-RustInPeace.jpg"
+  },
+  {
+    "id": 7,
+    "name": "War Ensemble",
+    "artist": "Slayer",
+    "album": "Seasons In The Abyss",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHBzizU4kNTkVckHURvtSIpEjOm1MPVtS9A&s"
+  },
+  {
+    "id": 8,
+    "name": "Territory",
+    "artist": "Sepultura",
+    "album": "Chaos AD",
+    "image": "https://i.scdn.co/image/ab67616d0000b2739c0b2d74cfb910735ca55317"
+  },
+  {
+    "id": 9,
+    "name": "Laid to Rest",
+    "artist": "Lamb of God",
+    "album": "Ashes Of The Wake",
+    "image": "https://i.scdn.co/image/ab67616d0000b273b12877d8bdfaa0f19b4624fa"
+  },
+  {
+    "id": 10,
+    "name": "Amazonia",
+    "artist": "Gojira",
+    "album": "Fortitude",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Gojira_Fortitude_artwork.png"
   }
 ]
