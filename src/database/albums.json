@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Burn My Eyes",
+    "artist": "Machine Head",
+    "year": 1994,
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Machine_Head_-_Burn_My_Eyes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kill'Em All",
+    "artist": "Metallica",
+    "year": 1983,
+    "image": "https://i.scdn.co/image/ab67616d0000b273b9d81ca2b0884641e321be4f"
+  },
+  {
+    "id": 3,
+    "name": "All Hope Is Gone",
+    "artist": "Slipknot",
+    "year": 2008,
+    "image": "https://m.media-amazon.com/images/I/81GgzQ3cHgL._UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Piece Of Mind",
+    "artist": "Iron Maiden",
+    "year": 1983,
+    "image": "https://upload.wikimedia.org/wikipedia/pt/8/85/Iron_Maiden_-_Piece_Of_Mind.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Vulgar Display of Power",
+    "artist": "Pantera",
+    "year": 1992,
+    "image": "https://upload.wikimedia.org/wikipedia/pt/4/48/VulgarDisplayOfPower.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rust In Peace",
+    "artist": "Megadeth",
+    "year": 1990,
+    "image": "https://upload.wikimedia.org/wikipedia/pt/d/dc/Megadeth-RustInPeace.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Seasons In The Abyss",
+    "artist": "Slayer",
+    "year": 1990,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHBzizU4kNTkVckHURvtSIpEjOm1MPVtS9A&s"
+  },
+  {
+    "id": 8,
+    "name": "Chaos AD",
+    "artist": "Sepultura",
+    "year": 1994,
+    "image": "https://i.scdn.co/image/ab67616d0000b2739c0b2d74cfb910735ca55317"
+  },
+  {
+    "id": 9,
+    "name": "Ashes Of The Wake",
+    "artist": "Lamb of God",
+    "year": 2004,
+    "image": "https://i.scdn.co/image/ab67616d0000b273b12877d8bdfaa0f19b4624fa"
+  },
+  {
+    "id": 10,
+    "name": "Fortitude",
+    "artist": "Gojira",
+    "year": 2021,
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Gojira_Fortitude_artwork.png"
+  }
+]
