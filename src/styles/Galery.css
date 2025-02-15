@@ -1,0 +1,34 @@
+.main {
+  padding: 2rem;
+  margin: 0 1rem 1rem;
+  background-image: linear-gradient(to bottom, #121212, #000);
+  border-radius: 0.25rem;
+  flex: 1;
+}
+
+.galery-list__list {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(172px, 1fr));
+  column-gap: 0.5rem;
+  margin: 0 0 1em;
+  transition: height .3s ease ;
+}
+
+.galery-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 1em;
+}
+
+.galery-header__button{
+  border: none;
+  background-color: #0000;
+  color: inherit;
+}
+
+.galery-header__button:hover {
+  text-decoration: underline;
+}
